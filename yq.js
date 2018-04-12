@@ -22,7 +22,7 @@ document.writeln("");
 document.writeln("<ul>");
 document.writeln("<a href=\'http://douqu.info/\' target=\'_blank\' title=\'1\'><li>逗趣福利导航</li></a>");
 document.writeln("<a href=\'http://yehuadh.online/\' target=\'_blank\' title=\'1\'><li>野花福利导航</li></a>");
-document.writeln("<a href=\'http://www.laiyipao.shop/\' target=\'_blank\' title=\'1\'><li>来一炮福利导航</li></a>");
+document.writeln("<a href=\'http://www.laiyipao.shop/\' target=\'_blank\' title=\'1\'><li>来一炮导航</li></a>");
 document.writeln("<a href=\'http://www.qqtube.shop/\' target=\'_blank\' title=\'1\'><li>扣逼福利导航</li></a>");
 document.writeln("<a href=\'http://www.hugedh.xyz/\' target=\'_blank\' title=\'1\'><li>虎哥导航</li></a>");
 document.writeln("<a href=\'http://www.huodh123.com/\' target=\'_blank\' title=\'1\'><li>火导航</li></a>");
