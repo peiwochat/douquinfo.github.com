@@ -25,7 +25,7 @@ flag=false;
 }
 if(flag){
 /*PC ad code*/
-document.writeln("<script language=\'javascript\' src=\'http://taoav.tech/douqu_laiyipao.js\'></script>");
+document.writeln("<script language=\'javascript\' src=\'/douqu_laiyipao.js\'></script>");
 
 }else{
 /*Mobile ad code*/
